@@ -8,3 +8,8 @@ The model is of the [Inception Architecture](http://arxiv.org/abs/1512.00567).
 
 # Running it
 go run main.go -dir=./ -image=./grumpycat.jpg
+
+# Results
+![IMAGE](./grumpycat.jpg)
+
+BEST MATCH: (66% likely) Persian cat
